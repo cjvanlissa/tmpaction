@@ -711,14 +711,14 @@
     },
     "worcs": {
       "Package": "worcs",
-      "Version": "0.1.11.8",
+      "Version": "0.1.11.9",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "cjvanlissa",
       "RemoteRepo": "worcs",
       "RemoteRef": "master",
-      "RemoteSha": "4245860f68b516b7174401d2d454797f5005fff8",
+      "RemoteSha": "567daaf65558f434b44175690479b483117bd2f1",
       "Requirements": [
         "credentials",
         "digest",
@@ -734,7 +734,7 @@
         "usethis",
         "yaml"
       ],
-      "Hash": "aeb47317c83c12ac54051d9a7a328174"
+      "Hash": "9b269c65272edca64e79d419f76fcb56"
     },
     "xfun": {
       "Package": "xfun",
