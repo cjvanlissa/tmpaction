@@ -718,7 +718,7 @@
       "RemoteUsername": "cjvanlissa",
       "RemoteRepo": "worcs",
       "RemoteRef": "master",
-      "RemoteSha": "9b5f6d6112d83759e0b2930b5b05ac08469a3120",
+      "RemoteSha": "bc377cb40d6eb12a2b1a6ffabea1226e766adab1",
       "Requirements": [
         "credentials",
         "digest",
@@ -734,7 +734,7 @@
         "usethis",
         "yaml"
       ],
-      "Hash": "baced5453ab67927a3bd35b74f44f110"
+      "Hash": "4635ac8dc01fdff64ff275573a2328e2"
     },
     "xfun": {
       "Package": "xfun",
