@@ -3,4 +3,4 @@ creator: vanlissa
 entry_point: manuscript/manuscript.Rmd
 endpoints: manuscript/manuscript.md
 checksums:
-  manuscript/manuscript.md: be73f2b4037584190eee11f90a1f1040
+  manuscript/manuscript.md: 4331c3f865c5da2ec250e08c653cf566
