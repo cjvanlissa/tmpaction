@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![worcs_endpoints](https://github.com/cjvanlissa/tmpaction/actions/workflows/worcs_endpoints.yaml/badge.svg)](https://github.com/cjvanlissa/tmpaction/actions/workflows/worcs_endpoints.yaml)
+[![worcs_reproduce](https://github.com/cjvanlissa/tmpaction/actions/workflows/worcs_reproduce.yaml/badge.svg)](https://github.com/cjvanlissa/tmpaction/actions/workflows/worcs_reproduce.yaml)
 <!-- badges: end -->
   
 <!-- Please add a brief introduction to explain what the project is about    -->

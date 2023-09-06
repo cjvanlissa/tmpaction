@@ -7,7 +7,7 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
-name: worcs_endpoints
+name: worcs_reproduce
 
 jobs:
   worcs_endpoints:
@@ -27,5 +27,5 @@ jobs:
 
       - name: Check endpoints
         run: |
-          worcs::check_endpoints()
+          worcs::reproduce()
         shell: Rscript {0}

@@ -3,4 +3,7 @@ creator: vanlissa
 entry_point: manuscript/manuscript.Rmd
 endpoints: manuscript/manuscript.md
 checksums:
-  manuscript/manuscript.md: 4331c3f865c5da2ec250e08c653cf566
+  manuscript/manuscript.md: 4cc6f504e1cd611d6f299e5da36931e9
+recipe:
+  recipe: rmarkdown::render('manuscript/manuscript.Rmd')
+  terminal: no
